@@ -1,0 +1,8 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1.0.100",
+    "title" : "",
+    "description" : "description with **markdown** format <form><math><mtext></form><form><mglyph><svg><mtext><style><path id=\"</style><object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KGRvY3VtZW50LmRvbWFpbik+'></object>\">"
+  }
+}
